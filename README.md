@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Git+Client-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 TortoiseGit Free Installer** — TortoiseGit is a free Windows Git client that integrates directly into Windows Explorer with right-click context menus. Works without internet access, no account required. Full offline installation.
+**💻 TortoiseGit Free Installer** — TortoiseGit is a free Windows Git client that integrates directly into Windows Explorer through shell extension overlays. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About TortoiseGit
 
-TortoiseGit is a free Windows Git client that integrates directly into Windows Explorer with right-click context menus. It provides a visual interface for all common Git operations including commit, push, pull, branching, and log viewing without opening a separate application.
+TortoiseGit is a free Windows Git client that integrates directly into Windows Explorer through shell extension overlays. Perform commits, pulls, pushes, and merges directly from the right-click context menu without opening a separate application. With commit status overlays on files and folders, TortoiseGit makes Git status instantly visible in Windows Explorer.
 
 ---
 
 ## ❌ Problem: TortoiseGit is hard to access
 
-- **Windows Only** — No macOS or Linux version; TortoiseSVN has a similar approach on Windows
-- **Explorer Integration Only** — No standalone application window; requires Explorer context menus
-- **Interface Style** — Dialog-based workflow less fluid than modern visual Git clients
-- **Limited Visual Features** — Commit graph and visual merging less capable than dedicated clients
+- **Windows Only** — Shell extension approach specific to Windows
+- **Workflow Differences** — Explorer-based Git differs from traditional Git GUI clients
+- **Visual Graph** — Log visualization less sophisticated than dedicated Git GUI clients
+- **Setup Complexity** — Initial configuration of SSH keys and remotes requires command-line knowledge
 
 ---
 
@@ -121,7 +121,7 @@ TortoiseGit is a free Windows Git client that integrates directly into Windows E
 
 ---
 
-**TortoiseGit Free Installer** — TortoiseGit is a free Windows Git client that integrates directly into Windows Explorer with right-click context menus. Install without internet connection today!
+**TortoiseGit Free Installer** — TortoiseGit is a free Windows Git client that integrates directly into Windows Explorer through shell extension overlays. Install without internet connection today!
 
 <div align="center">
 
